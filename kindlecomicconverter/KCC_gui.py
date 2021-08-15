@@ -940,6 +940,8 @@ class KCCGUI(KCC_ui.Ui_mainWindow):
                               'DefaultUpscale': True, 'Label': 'KoAO'},
             "Kobo Forma": {'PVOptions': False, 'ForceExpert': False, 'DefaultFormat': 1,
                            'DefaultUpscale': True, 'Label': 'KoF'},
+            "Kobo Libra": {'PVOptions': False, 'ForceExpert': False, 'DefaultFormat': 1,
+                           'DefaultUpscale': True, 'Label': 'KoL'},
             "Other": {'PVOptions': False, 'ForceExpert': True, 'DefaultFormat': 1,
                       'DefaultUpscale': False, 'Label': 'OTHER'},
             "Kindle 1": {'PVOptions': False, 'ForceExpert': False, 'DefaultFormat': 0,
